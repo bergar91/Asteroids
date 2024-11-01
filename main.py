@@ -36,7 +36,7 @@ def main():
         
         for shot in shots:
             if shot.collides_with(asteroid):
-                passaaa
+                pass
 
         for asteroid in asteroids:
             if asteroid.collides_with(player):
